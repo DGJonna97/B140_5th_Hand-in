@@ -2,6 +2,7 @@
 ### The 5th Hand-in for PFI :fish:
 
 ## Members<br/>
+Laura Meškauskaitė<br/>
 Mathias Johannes Hansen<br/>
 Nicolai Kristensen<br/>
 Christian Beltoft ørbæk<br/>

@@ -2,7 +2,7 @@
 ### The 5th Hand-in for PFI :fish:
 
 ## Members<br/>
-**Jonatan Emil Simonsen**<br/>
+Jonatan Emil Simonsen<br/>
 Laura Meškauskaitė<br/>
 Mathias Johannes Hansen<br/>
 Nicolai Kristensen<br/>

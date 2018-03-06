@@ -6,3 +6,7 @@ Mathias Johannes Hansen<br/>
 Nicolai Kristensen<br/>
 Christian Beltoft ørbæk<br/>
 Jonatan Emil Simonsen<br/>
+
+## UML Diagram
+
+![UML](B140_5th_Hand-in/UML_Diagram.png "UML Diagram")

@@ -3,5 +3,4 @@
 
 ##Members
 
-Inline-style: 
-![alt text](B140_5th_Hand-in/5th Hand-In PFI UML.pdf "UML diagram")
+[alt text](B140_5th_Hand-in/5th Hand-In PFI UML.pdf "UML diagram")

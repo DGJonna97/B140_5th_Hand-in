@@ -3,7 +3,7 @@
 
 ##Members
 
-Nicolai Kristensen[b]
+Nicolai Kristensen
 '
 Christian Beltoft ørbæk
 

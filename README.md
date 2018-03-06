@@ -9,4 +9,5 @@ Jonatan Emil Simonsen<br/>
 
 ## UML Diagram
 
-![UML](/B140_5th_Hand-in/UML_Diagram.png "UML Diagram")
+![UML](
+https://github.com/DGJonna97/B140_5th_Hand-in/blob/master/UML_Diagram.png? "UML Diagram")
